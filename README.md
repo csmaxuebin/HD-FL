@@ -108,9 +108,9 @@ These explanations offer a concise overview of the critical code files in the HD
 
 The experimental results section of this paper focuses on evaluating the HD-FL model's performance using three datasets: MNIST, Fashion-MNIST, and CIFAR-10. The experiments are designed to test the accuracy and loss of the model compared to other existing models and to observe the impact of different numbers of clients on the model's performance.
 
-![](https://github.com/csmaxuebin/HD-FL/pic/1.png)
+![](/pic/1.png)
 
-![](https://github.com/csmaxuebin/HD-FL/pic/2.png)
+![](/pic/2.png)
 
-![](https://github.com/csmaxuebin/HD-FL/pic/3.png)
+![](/pic/3.png)
 
