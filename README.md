@@ -4,7 +4,7 @@
 
 ## Abstract 
 
-![](https://github.com/csmaxuebin/HD-FL/pic/struct.png)
+![](/pic/struct.png)
 
 In recent years, federated learning has been widely used in the field of machine learning, and the privacy leakage problem has become more and more serious. The privacy-preserving techniques of federated learning are still immature. This paper proposes the HD-FL model for the privacy leakage problem of federated learning, which combines differential privacy with homomorphic encryption. Homomorphic encryption is used to encrypt the gradient parameters, and the global ciphertext is calculated to update the gradient parameters with differential privacy. HD-FL can prevent inference of the exchanged model information during the training process while ensuring that the generated models also have acceptable prediction accuracy. The global model update allows the client to prevent inference threats and generate highly accurate models without sacrificing privacy. Moreover, this model can be used to train various machine learning methods, which are experimentally validated with three different datasets, and the results show that this approach outperforms current solutions in terms of security and accuracy.
 
